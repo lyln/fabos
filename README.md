@@ -16,3 +16,6 @@
 - [eleTree 树组件](https://layuiextend.hsianglee.cn/eletree/)
 - [formSelect.js树形下拉](https://wujiawei0926.gitee.io/treeselect/docs/doc.html)
 - [Apexcharts图表](https://apexcharts.com/)
+
+#### 项目部分效果图
+[传送门](http://www.inshub.cn/2021/02/09/2021-02-09-gateway-nginx-nacos/)
